@@ -4,7 +4,7 @@
 Solutions and some notes of exapunks solutions as I work through the game, split by puzzle and solution iteration. No hints or looked up solutions.
 
 ### Progress
-Latest Completed: 15 - Trash World News - Unknown Context
+*Latest Completed*: 15 - Trash World News - Unknown Context
 
 ### Latest Solutions Per Puzzle
 * [01 - Tutorial 1 - Solution 2](/01%20-%20Tutorial%201/01%20-%20Solution%202.md)
