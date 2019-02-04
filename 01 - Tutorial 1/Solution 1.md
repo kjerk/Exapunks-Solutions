@@ -6,4 +6,4 @@ DROP
 HALT
 ```
 
-![Solution 1](./Solution 1.gif?raw=true "Optional Title")
+![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/01%20-%20Tutorial%201/Solution%201.gif?raw=true)
