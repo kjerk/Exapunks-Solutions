@@ -6,4 +6,4 @@ DROP
 HALT
 ```
 
-![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/01%20-%20Tutorial%201/Solution%201.gif?raw=true)
+![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/01%20-%20Tutorial%201/images/01%20-%20Solution%201.gif?raw=true)
