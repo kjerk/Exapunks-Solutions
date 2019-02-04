@@ -13,4 +13,4 @@ TEST X = 0
 FJMP LOOP
 ```
 
-![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/04%20-%20Tutorial%204/04%20-%20Solution%201.gif?raw=true)
+![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/04%20-%20Tutorial%204/images/04%20-%20Solution%201.gif?raw=true)
