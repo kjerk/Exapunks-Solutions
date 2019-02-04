@@ -7,4 +7,4 @@ GRAB 200
 LINK 800
 ```
 
-![Solution 2](https://github.com/kjerk/Exapunks-Solutions/blob/master/01%20-%20Tutorial%201/01%20-%20Solution%202.gif?raw=true)
+![Solution 2](https://github.com/kjerk/Exapunks-Solutions/blob/master/01%20-%20Tutorial%201/images/01%20-%20Solution%202.gif?raw=true)
