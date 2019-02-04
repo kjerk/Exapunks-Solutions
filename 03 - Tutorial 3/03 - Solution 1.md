@@ -18,4 +18,4 @@ COPY F M
 WIPE
 ```
 
-![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/03%20-%20Tutorial%203/03%20-%20Solution%201.gif?raw=true)
+![Solution 1](https://github.com/kjerk/Exapunks-Solutions/blob/master/03%20-%20Tutorial%203/images/03%20-%20Solution%201.gif?raw=true)
